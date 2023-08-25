@@ -419,8 +419,8 @@ a, button {
 				1px 1px 30px rgba(0,0,255,0.5);
 }
 .card:nth-child(3):hover {
-	box-shadow: inset 0px 0px 10px rgba(0,0,255,0.5),
-				1px 1px 30px rgba(0,0,255,0.5);
+	box-shadow: inset 0px 0px 10px rgba(230, 141, 100, 0.853),
+				1px 1px 30px rgba(230, 141, 100, 0.853);
 }
 .totalcard .card img {
 	width: 100px;
