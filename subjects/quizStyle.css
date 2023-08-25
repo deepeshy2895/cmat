@@ -11,7 +11,7 @@ html {
 	scroll-behavior: smooth;
 }
 body {
-	background: url(../images/extra/b1.jpg);
+	background: url(extra/b1.jpg);
 	background-size: cover;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -227,7 +227,7 @@ body {
 	border: none;
 }
 .main-frame {
-	background: url(../images/extra/quiz.jpg);
+	background: url(extra/quiz.jpg);
 	background-size: cover;
 	background-position: center;
 }
